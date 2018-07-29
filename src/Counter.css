@@ -1,0 +1,19 @@
+.counter-container{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.counter-container button {
+    width: 100px;
+    margin: 15px 0;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    padding-left: 50px;
+    padding-right: 50px;
+}
